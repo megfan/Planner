@@ -1,5 +1,6 @@
 # Planner
-Minimal One Pager as short presentation of latest projects.
+React, Redux and Firebase project focused on creating the dashboard component and it's child components - the project list and the notifications.
+
 
 <!-- ## View:
 [Portfolio](https://megfan.github.io) -->
@@ -7,8 +8,9 @@ Minimal One Pager as short presentation of latest projects.
 ## Built With
 
 * React
+* React Router
 * Redux
-* FireBase
+* Firebase
 * Material Design
 
 <!-- ### RPD
