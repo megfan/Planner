@@ -2,8 +2,8 @@
 React, Redux and Firebase project focused on creating the dashboard component and it's child components - the project list and the notifications.
 
 
-<!-- ## View:
-[Portfolio](https://megfan.github.io) -->
+## View:
+[Planner](https://megfan.github.io/Planner/)
 
 ## Built With
 
@@ -13,13 +13,17 @@ React, Redux and Firebase project focused on creating the dashboard component an
 * Firebase
 * Material Design
 
-<!-- ### RPD
+![screenshot-megfan github io-2019 02 02-10-48-43](https://user-images.githubusercontent.com/35031023/52162714-6d4c0200-26d8-11e9-98bd-37d6e8edb586.png)
+![screenshot-megfan github io-2019 02 02-10-50-12](https://user-images.githubusercontent.com/35031023/52162715-6f15c580-26d8-11e9-9d01-fb710cda32a8.png)
+![screenshot-megfan github io-2019 02 02-10-50-12 2](https://user-images.githubusercontent.com/35031023/52162716-70df8900-26d8-11e9-8a94-b152b7b1df69.png)
 
-![screenshot-127 0 0 1-5500-2019 01 15-12-57-12](https://user-images.githubusercontent.com/35031023/51179275-4e223780-18c5-11e9-8225-2f949f2f5592.png) -->
 
-### Authors
+
+
+### Author
 
 * **Margaret Staszewska**
+*Thanks to The Net Ninja* 
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
