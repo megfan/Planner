@@ -13,9 +13,10 @@ React, Redux and Firebase project focused on creating the dashboard component an
 * Firebase
 * Material Design
 
-![screenshot-megfan github io-2019 02 02-10-48-43](https://user-images.githubusercontent.com/35031023/52162714-6d4c0200-26d8-11e9-98bd-37d6e8edb586.png)
-![screenshot-megfan github io-2019 02 02-10-50-12](https://user-images.githubusercontent.com/35031023/52162715-6f15c580-26d8-11e9-9d01-fb710cda32a8.png)
-![screenshot-megfan github io-2019 02 02-10-50-12 2](https://user-images.githubusercontent.com/35031023/52162716-70df8900-26d8-11e9-8a94-b152b7b1df69.png)
+
+![screenshot-megfan github io-2019 02 02-10-50-12 2](https://user-images.githubusercontent.com/35031023/52162769-08dd7280-26d9-11e9-82e4-84434f1367a4.png)
+![screenshot-megfan github io-2019 02 02-10-50-12 1](https://user-images.githubusercontent.com/35031023/52162770-08dd7280-26d9-11e9-8aa8-4e79228efc06.png)
+![screenshot-megfan github io-2019 02 02-10-50-12](https://user-images.githubusercontent.com/35031023/52162771-08dd7280-26d9-11e9-98b8-486feafc670d.png)
 
 
 
